@@ -2,7 +2,7 @@
 Easy 23
 
 -------
-Medium 12
+Medium 13
 
 -------
 Hard 1
