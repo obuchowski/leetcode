@@ -5,7 +5,7 @@
  */
 var multiply = function(num1, num2) {
     let resultArray = [],
-        toNext = 0
+        toNext = 0,
         m = num1.length + num2.length - 2
     for (let i = num1.length - 1; i >= 0; i--) {
         toNext = 0
@@ -44,3 +44,5 @@ var multiply = function(num1, num2) {
     }
     return result
 }
+
+console.log(multiply('1123','3'))
